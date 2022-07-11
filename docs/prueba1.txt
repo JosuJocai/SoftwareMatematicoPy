@@ -1,0 +1,6 @@
+canciones, tiempo, cuenta atras escuchada
+,
+como estas,alla voy,24k
+ 3.5, 2.12, 2
+ 4, 7, 6
+ True, False,True
